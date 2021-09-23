@@ -1,0 +1,13 @@
+{
+  "name": "kirby-rollup",
+  "version": "1.0.0",
+  "description": "kirby-rollup",
+  "scripts": {
+    "dev": "touch src/.lock && vite",
+    "build": "rm -f src/.lock && vite build"
+  },
+  "devDependencies": {
+    "vite": "^2.5.10",
+    "vite-plugin-live-reload": "^2.1.0"
+  }
+}
