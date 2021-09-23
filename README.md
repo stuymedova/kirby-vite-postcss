@@ -1,4 +1,4 @@
-# Kirby + Rollup template
+# Kirby + Vite template
 
 Kirby CMS template adapted to use with Vite
 
