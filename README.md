@@ -1,6 +1,6 @@
 # Kirby + Vite template
 
-Kirby CMS template adapted to use with Vite
+[Kirby CMS template](https://github.com/stuymedova/kirby-rollup-postcss) adapted to use with Vite.
 
 ## Overview
 
@@ -20,8 +20,7 @@ Kirby CMS template adapted to use with Vite
 ├── site
 │   ├── blueprints
 │   ├── config
-│   │   │   # config.{url}.php
-│   │   ├── config.kirby-rollup.test.php
+│   │   ├── config.kirby-vite.test.php
 │   │   └── config.php
 │   ├── plugins
 │   │   ├── kirby3-robots-txt
