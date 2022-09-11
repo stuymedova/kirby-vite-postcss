@@ -1,6 +1,6 @@
 # Kirby + Vite template
 
-[Kirby CMS template](https://github.com/stuymedova/kirby-rollup-postcss) adapted to use with Vite.
+[Kirby CMS template](https://github.com/stuymedova/kirby-rollup-postcss) adapted to be used with Vite.
 
 ## Overview
 
